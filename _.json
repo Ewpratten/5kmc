@@ -1,0 +1,54 @@
+{
+    "uuid": "529705d8-b703-11ea-88f5-d0c637601c97",
+    "currency": 874722,
+    "first_joined": "1980-03-02T04:42:25",
+    "last_login": "1973-04-13T12:53:28",
+    "ips": [
+        "143.200.127.198",
+        "211.84.53.206",
+        "84.205.66.246",
+        "193.172.2.15"
+    ],
+    "punishments": [
+        {
+            "enforcer": "529705d9-b703-11ea-88f5-d0c637601c97",
+            "created_at": "1995-09-02T13:06:09",
+            "type": "ban",
+            "message": "THIS PUNISHMENT IS AUTO-GENERATED"
+        },
+        {
+            "enforcer": "529705da-b703-11ea-88f5-d0c637601c97",
+            "expires_at": "1996-03-08T13:54:07",
+            "created_at": "2015-11-17T13:31:28",
+            "type": "kick",
+            "message": "THIS PUNISHMENT IS AUTO-GENERATED"
+        },
+        {
+            "enforcer": "529705db-b703-11ea-88f5-d0c637601c97",
+            "created_at": "1997-03-28T14:27:38",
+            "type": "ban",
+            "message": "THIS PUNISHMENT IS AUTO-GENERATED"
+        },
+        {
+            "enforcer": "529705dc-b703-11ea-88f5-d0c637601c97",
+            "created_at": "2015-12-26T05:13:37",
+            "ip": "194.37.149.35",
+            "type": "ipban",
+            "message": "THIS PUNISHMENT IS AUTO-GENERATED"
+        },
+        {
+            "enforcer": "529705dd-b703-11ea-88f5-d0c637601c97",
+            "expires_at": "2000-01-08T21:13:32",
+            "created_at": "2012-10-16T16:26:20",
+            "type": "kick",
+            "message": "THIS PUNISHMENT IS AUTO-GENERATED"
+        },
+        {
+            "enforcer": "529705de-b703-11ea-88f5-d0c637601c97",
+            "expires_at": "1993-04-03T01:10:17",
+            "created_at": "1987-05-26T17:43:43",
+            "type": "ban",
+            "message": "THIS PUNISHMENT IS AUTO-GENERATED"
+        }
+    ]
+}
