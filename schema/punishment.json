@@ -1,0 +1,8 @@
+{
+    "enforcer": "<mc_UID>",
+    "expires_at": "<date (optional)>",
+    "created_at": "<date>",
+    "ip":"<optional>",
+    "type": "<type>",
+    "message": "<message>"
+}
